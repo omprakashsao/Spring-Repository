@@ -1,0 +1,18 @@
+package in.pwskills.om.bean;
+
+public class FedEx implements ICourier {
+
+
+	@Override
+	public String toString() {
+		return "FedEx []";
+	}
+	
+	@Override
+	public String orderConfirmation(Integer oid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+
+}

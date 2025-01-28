@@ -1,0 +1,21 @@
+package in.pwskills.om.bean;
+
+import javax.sql.DataSource;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component("oracledb")
+public class EmployeeMySQLImpl implements IEmployee {
+	
+	@Autowired
+	private DataSource ds;
+	
+	@Override
+	public void getConnetion() {
+		// TODO Auto-generated method stub
+		System.out.println(ds);
+	}
+	
+
+}

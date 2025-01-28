@@ -1,0 +1,5 @@
+package in.pwskills.om.bean;
+
+public class EmployeeMySQLImpl implements IEmployee {
+
+}

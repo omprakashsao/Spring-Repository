@@ -1,0 +1,391 @@
+2025-01-26 22:54:06,314 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-01-26 23:03:07,369 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [635])
+2025-01-26 23:03:07,376 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2025-01-26 23:03:07,378 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2025-01-26 23:03:07,379 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2025-01-26 23:03:07,380 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2025-01-26 23:03:07,380 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2025-01-26 23:03:07,381 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2025-01-26 23:03:07,383 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2025-01-26 23:03:07,383 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2025-01-26 23:03:07,384 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2025-01-26 23:03:07,385 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2025-01-26 23:03:07,386 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2025-01-26 23:03:07,386 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2025-01-26 23:03:07,387 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2025-01-26 23:03:07,387 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2025-01-26 23:03:07,388 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2025-01-26 23:03:07,388 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2025-01-26 23:03:07,389 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2025-01-26 23:03:07,389 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2025-01-26 23:03:07,390 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2025-01-26 23:03:07,391 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2025-01-26 23:03:07,393 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2025-01-26 23:03:07,393 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2025-01-26 23:03:07,394 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2025-01-26 23:03:07,394 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2025-01-26 23:03:07,395 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2025-01-26 23:03:07,396 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2025-01-26 23:03:07,396 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2025-01-26 23:03:07,397 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2025-01-26 23:03:07,398 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2025-01-26 23:03:07,398 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2025-01-26 23:03:07,399 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2025-01-26 23:03:07,400 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2025-01-26 23:03:07,401 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2025-01-26 23:03:07,401 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2025-01-26 23:03:07,402 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2025-01-26 23:03:07,403 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2025-01-26 23:03:07,404 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2025-01-26 23:03:07,404 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2025-01-26 23:03:07,405 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2025-01-26 23:03:07,406 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2025-01-26 23:03:07,406 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2025-01-26 23:03:07,407 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2025-01-26 23:03:07,411 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [14])
+2025-01-26 23:03:07,413 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\com.google.guava_33.0.0.jre.jar
+2025-01-26 23:03:07,413 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [998])
+2025-01-26 23:03:07,414 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\slf4j.api_2.0.13.jar
+2025-01-26 23:03:07,414 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [32])
+2025-01-26 23:03:07,416 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-01-26 23:03:07,416 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [27])
+2025-01-26 23:03:07,417 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2025-01-26 23:03:07,418 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [75])
+2025-01-26 23:03:07,419 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2025-01-26 23:03:07,419 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [78])
+2025-01-26 23:03:07,421 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-01-26 23:03:07,421 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [86])
+2025-01-26 23:03:07,422 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2025-01-26 23:03:07,423 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [15])
+2025-01-26 23:03:07,424 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\kajal\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-01-26 23:03:07,442 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\kajal\AppData\Local\Temp\m2e-archetypeGenerator3551694846044505520":
+2025-01-26 23:03:07,451 [Worker-35: Launching mavenrun-46ab2b6e-b22e-4b77-9f0c-00bb1a48a48a] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.1 -DgroupId=pwskills -DartifactId=01-SpringConfig-App -Dversion=0.0.1-SNAPSHOT -Dpackage=in.pwskills.om.main -DoutputDirectory="D:\Spring Projects" -B -Dstyle.color=always -U archetype:generate
+2025-01-26 23:03:30,625 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Spring Projects\01-SpringConfig-App\pom.xml
+2025-01-26 23:03:31,674 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.2.2/maven-surefire-plugin-3.2.2.jar
+2025-01-26 23:03:31,743 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.2.2/maven-surefire-plugin-3.2.2.jar
+2025-01-26 23:03:32,964 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pwskills:01-SpringConfig-App:0.0.1-SNAPSHOT @ D:\Spring Projects\01-SpringConfig-App\pom.xml.
+2025-01-26 23:03:33,160 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.2.2/maven-surefire-plugin-3.2.2.pom
+2025-01-26 23:03:33,185 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.2.2/maven-surefire-plugin-3.2.2.pom
+2025-01-26 23:03:33,303 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/3.2.2/surefire-3.2.2.pom
+2025-01-26 23:03:33,355 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/3.2.2/surefire-3.2.2.pom
+2025-01-26 23:03:34,805 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-SpringConfig-App/src/main/java
+2025-01-26 23:03:34,809 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-SpringConfig-App/src/main/resources
+2025-01-26 23:03:34,830 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01-SpringConfig-App/src/test/java
+2025-01-26 23:03:34,832 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /01-SpringConfig-App/src/test/resources
+2025-01-26 23:03:35,135 [Worker-34: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2025-01-26 23:03:36,276 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring Projects\01-SpringConfig-App\src\main\resources
+2025-01-26 23:03:36,284 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring Projects\01-SpringConfig-App\src\test\resources
+2025-01-26 23:04:47,193 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 23:04:47,208 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-26 23:11:51,121 [Worker-37: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pwskills:01-SpringConfig-App:0.0.1-SNAPSHOT @ D:\Spring Projects\01-SpringConfig-App\pom.xml.
+2025-01-26 23:11:51,529 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.2.25.RELEASE/spring-context-5.2.25.RELEASE.pom
+2025-01-26 23:11:51,553 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.2.25.RELEASE/spring-context-5.2.25.RELEASE.pom
+2025-01-26 23:11:51,712 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.2.25.RELEASE/spring-aop-5.2.25.RELEASE.pom
+2025-01-26 23:11:51,741 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.2.25.RELEASE/spring-aop-5.2.25.RELEASE.pom
+2025-01-26 23:11:51,964 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.2.25.RELEASE/spring-beans-5.2.25.RELEASE.pom
+2025-01-26 23:11:51,992 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.2.25.RELEASE/spring-beans-5.2.25.RELEASE.pom
+2025-01-26 23:11:52,117 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.2.25.RELEASE/spring-core-5.2.25.RELEASE.pom
+2025-01-26 23:11:52,134 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.2.25.RELEASE/spring-core-5.2.25.RELEASE.pom
+2025-01-26 23:11:52,258 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.2.25.RELEASE/spring-jcl-5.2.25.RELEASE.pom
+2025-01-26 23:11:52,281 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.2.25.RELEASE/spring-jcl-5.2.25.RELEASE.pom
+2025-01-26 23:11:52,410 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.2.25.RELEASE/spring-expression-5.2.25.RELEASE.pom
+2025-01-26 23:11:52,425 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.2.25.RELEASE/spring-expression-5.2.25.RELEASE.pom
+2025-01-26 23:11:52,565 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.2.25.RELEASE/spring-context-5.2.25.RELEASE.jar
+2025-01-26 23:11:53,987 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.2.25.RELEASE/spring-context-5.2.25.RELEASE.jar
+2025-01-26 23:11:54,316 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.2.25.RELEASE/spring-aop-5.2.25.RELEASE.jar
+2025-01-26 23:11:54,655 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.2.25.RELEASE/spring-aop-5.2.25.RELEASE.jar
+2025-01-26 23:11:54,669 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.2.25.RELEASE/spring-expression-5.2.25.RELEASE.jar
+2025-01-26 23:11:54,689 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.2.25.RELEASE/spring-core-5.2.25.RELEASE.jar
+2025-01-26 23:11:54,724 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.2.25.RELEASE/spring-jcl-5.2.25.RELEASE.jar
+2025-01-26 23:11:54,752 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.2.25.RELEASE/spring-beans-5.2.25.RELEASE.jar
+2025-01-26 23:11:54,781 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.2.25.RELEASE/spring-jcl-5.2.25.RELEASE.jar
+2025-01-26 23:11:55,149 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.2.25.RELEASE/spring-expression-5.2.25.RELEASE.jar
+2025-01-26 23:11:55,787 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.2.25.RELEASE/spring-beans-5.2.25.RELEASE.jar
+2025-01-26 23:11:56,437 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.2.25.RELEASE/spring-core-5.2.25.RELEASE.jar
+2025-01-26 23:11:57,209 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 23:11:57,218 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-26 23:11:58,276 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.2.25.RELEASE/spring-context-5.2.25.RELEASE-sources.jar
+2025-01-26 23:11:59,333 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-26 23:11:59,339 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-26 23:11:59,387 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.2.25.RELEASE/spring-context-5.2.25.RELEASE-sources.jar
+2025-01-26 23:11:59,404 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.2.25.RELEASE
+2025-01-26 23:11:59,848 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.2.25.RELEASE/spring-aop-5.2.25.RELEASE-sources.jar
+2025-01-26 23:12:00,271 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.2.25.RELEASE/spring-aop-5.2.25.RELEASE-sources.jar
+2025-01-26 23:12:00,288 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.2.25.RELEASE
+2025-01-26 23:12:01,000 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.2.25.RELEASE/spring-beans-5.2.25.RELEASE-sources.jar
+2025-01-26 23:12:01,849 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.2.25.RELEASE/spring-beans-5.2.25.RELEASE-sources.jar
+2025-01-26 23:12:01,867 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.2.25.RELEASE
+2025-01-26 23:12:02,378 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.2.25.RELEASE/spring-core-5.2.25.RELEASE-sources.jar
+2025-01-26 23:12:03,436 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.2.25.RELEASE/spring-core-5.2.25.RELEASE-sources.jar
+2025-01-26 23:12:03,448 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.2.25.RELEASE
+2025-01-26 23:12:04,067 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.2.25.RELEASE/spring-jcl-5.2.25.RELEASE-sources.jar
+2025-01-26 23:12:04,114 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.2.25.RELEASE/spring-jcl-5.2.25.RELEASE-sources.jar
+2025-01-26 23:12:04,130 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.2.25.RELEASE
+2025-01-26 23:12:04,497 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.2.25.RELEASE/spring-expression-5.2.25.RELEASE-sources.jar
+2025-01-26 23:12:04,889 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.2.25.RELEASE/spring-expression-5.2.25.RELEASE-sources.jar
+2025-01-26 23:12:04,902 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.2.25.RELEASE
+2025-01-27 08:00:28,758 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-27 08:02:19,478 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 08:02:19,485 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-27 08:04:41,629 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 08:04:41,634 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-27 08:15:15,527 [Worker-30: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 08:15:15,532 [Worker-30: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-27 19:24:20,849 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-28 16:04:08,905 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-01-28 16:05:37,649 [Worker-11: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 16:05:37,662 [Worker-11: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 19:03:40,848 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-28 19:04:38,964 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pwskills:01-SpringConfig-App:0.0.1-SNAPSHOT @ D:\Spring Projects\02-WhisGeneratorConfig-App\pom.xml.
+2025-01-28 19:04:39,835 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 19:04:39,840 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 19:04:41,044 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 19:04:41,048 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 19:04:56,224 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 19:04:56,227 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 19:05:15,693 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 19:05:15,699 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 19:11:32,037 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 19:11:32,040 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 19:14:57,845 [Worker-11: Launching App (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 19:14:57,849 [Worker-11: Launching App (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 19:15:58,092 [Worker-11: Launching App (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 19:15:58,096 [Worker-11: Launching App (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 21:23:35,420 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pwskills:01-SpringConfig-App:0.0.1-SNAPSHOT @ D:\Spring Projects\03-SpringFieldInjectionByAnnotaion-App\pom.xml.
+2025-01-28 21:23:35,677 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 21:23:35,681 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 21:23:37,012 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 21:23:37,016 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 21:25:12,236 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 21:25:12,241 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 21:26:44,315 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 21:26:44,322 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 21:33:10,753 [Worker-45: Launching App (2)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 21:33:10,759 [Worker-45: Launching App (2)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 22:17:33,488 [Worker-58: Launching App (2)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 22:17:33,498 [Worker-58: Launching App (2)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 23:49:46,858 [Worker-65: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pwskills:01-SpringConfig-App:0.0.1-SNAPSHOT @ D:\Spring Projects\04-SpringFieldInjectionByAnnotaion[Multi-Types]-App\pom.xml.
+2025-01-28 23:49:47,176 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 23:49:47,184 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 23:49:48,661 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 23:49:48,666 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 23:50:06,853 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 23:50:06,859 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 23:50:22,080 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 23:50:22,090 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 23:52:31,354 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 23:52:31,361 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 23:55:17,019 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 23:55:17,027 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 23:55:55,272 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 23:55:55,277 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 23:56:00,229 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 23:56:00,234 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 23:58:09,174 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 23:58:09,179 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 23:58:57,627 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 23:58:57,633 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-28 23:59:33,940 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-28 23:59:33,945 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:05:41,526 [Worker-69: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:05:41,533 [Worker-69: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:06:47,078 [Worker-70: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:06:47,085 [Worker-70: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:07:49,599 [Worker-70: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:07:49,605 [Worker-70: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:08:57,912 [Worker-65: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:08:57,917 [Worker-65: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:09:40,498 [Worker-69: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:09:40,504 [Worker-69: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:10:45,678 [Worker-65: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:10:45,684 [Worker-65: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:11:38,409 [Worker-69: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:11:38,414 [Worker-69: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:11:57,865 [Worker-65: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:11:57,872 [Worker-65: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:12:18,379 [Worker-67: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:12:18,384 [Worker-67: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:12:53,311 [Worker-69: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:12:53,316 [Worker-69: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:13:11,106 [Worker-70: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:13:11,110 [Worker-70: Launching App (3)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:19:50,840 [Worker-67: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pwskills:01-SpringConfig-App:0.0.1-SNAPSHOT @ D:\Spring Projects\05-SpringConfig-App\pom.xml.
+2025-01-29 00:19:51,048 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:19:51,053 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:19:52,406 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:19:52,409 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:20:30,540 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:20:30,544 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:20:48,181 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:20:48,187 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:22:04,504 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:22:04,510 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:22:32,991 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:22:32,995 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:27:20,967 [Worker-72: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pwskills:01-SpringConfig-App:0.0.1-SNAPSHOT @ D:\Spring Projects\05-SpringConfig-App\pom.xml.
+2025-01-29 00:27:21,892 [Worker-72: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.2.25.RELEASE/spring-jdbc-5.2.25.RELEASE.pom
+2025-01-29 00:27:21,931 [Worker-72: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.2.25.RELEASE/spring-jdbc-5.2.25.RELEASE.pom
+2025-01-29 00:27:22,066 [Worker-72: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.2.25.RELEASE/spring-tx-5.2.25.RELEASE.pom
+2025-01-29 00:27:22,095 [Worker-72: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.2.25.RELEASE/spring-tx-5.2.25.RELEASE.pom
+2025-01-29 00:27:22,214 [Worker-72: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.44/mysql-connector-java-5.1.44.pom
+2025-01-29 00:27:22,234 [Worker-72: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.44/mysql-connector-java-5.1.44.pom
+2025-01-29 00:27:22,437 [Worker-72: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.2.25.RELEASE/spring-jdbc-5.2.25.RELEASE.jar
+2025-01-29 00:27:23,039 [Worker-72: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.2.25.RELEASE/spring-jdbc-5.2.25.RELEASE.jar
+2025-01-29 00:27:23,147 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.44/mysql-connector-java-5.1.44.jar
+2025-01-29 00:27:23,343 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.2.25.RELEASE/spring-tx-5.2.25.RELEASE.jar
+2025-01-29 00:27:23,951 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.2.25.RELEASE/spring-tx-5.2.25.RELEASE.jar
+2025-01-29 00:27:24,417 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.44/mysql-connector-java-5.1.44.jar
+2025-01-29 00:27:24,565 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:27:24,570 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:27:25,822 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.2.25.RELEASE/spring-jdbc-5.2.25.RELEASE-sources.jar
+2025-01-29 00:27:25,861 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:27:25,865 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:27:26,440 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.2.25.RELEASE/spring-jdbc-5.2.25.RELEASE-sources.jar
+2025-01-29 00:27:26,452 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:5.2.25.RELEASE
+2025-01-29 00:27:26,760 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.2.25.RELEASE/spring-tx-5.2.25.RELEASE-sources.jar
+2025-01-29 00:27:27,149 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.2.25.RELEASE/spring-tx-5.2.25.RELEASE-sources.jar
+2025-01-29 00:27:27,162 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:5.2.25.RELEASE
+2025-01-29 00:27:27,421 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.44/mysql-connector-java-5.1.44-sources.jar
+2025-01-29 00:27:29,128 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.44/mysql-connector-java-5.1.44-sources.jar
+2025-01-29 00:27:29,141 [Worker-74: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:5.1.44
+2025-01-29 00:44:08,535 [Worker-78: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:44:08,541 [Worker-78: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:44:26,399 [Worker-65: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:44:26,405 [Worker-65: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:53:33,858 [Worker-82: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:53:33,865 [Worker-82: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 00:58:48,201 [Worker-80: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 00:58:48,205 [Worker-80: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:00:16,974 [Worker-80: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:00:16,980 [Worker-80: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:01:39,252 [Worker-88: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:01:39,258 [Worker-88: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:02:39,351 [Worker-85: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:02:39,358 [Worker-85: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:04:24,085 [Worker-84: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:04:24,089 [Worker-84: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:05:55,489 [Worker-84: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:05:55,494 [Worker-84: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:08:56,440 [Worker-90: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:08:56,446 [Worker-90: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:11:08,376 [Worker-91: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:11:08,387 [Worker-91: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:13:15,619 [Worker-94: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:13:15,625 [Worker-94: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:16:09,818 [Worker-97: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:16:09,823 [Worker-97: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:19:31,152 [Worker-99: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:19:31,158 [Worker-99: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:21:20,651 [Worker-100: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pwskills:01-SpringConfig-App:0.0.1-SNAPSHOT @ D:\Spring Projects\05-SpringConfig-App\pom.xml.
+2025-01-29 01:21:21,757 [Worker-100: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.34/mysql-connector-java-8.0.34.pom
+2025-01-29 01:21:21,764 [Worker-100: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for mysql:mysql-connector-java:jar:8.0.34 is missing, no dependency information available
+2025-01-29 01:21:22,157 [Worker-100: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.34/mysql-connector-java-8.0.34.jar
+2025-01-29 01:21:22,319 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:21:22,324 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:21:24,306 [Worker-101: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.34/mysql-connector-java-8.0.34-sources.jar
+2025-01-29 01:21:24,324 [Worker-101: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for mysql:mysql-connector-java:8.0.34
+org.eclipse.core.runtime.CoreException: Could not resolve artifact mysql:mysql-connector-java:jar:sources:8.0.34
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-01-29 01:22:14,913 [Worker-100: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pwskills:01-SpringConfig-App:0.0.1-SNAPSHOT @ D:\Spring Projects\05-SpringConfig-App\pom.xml.
+2025-01-29 01:22:15,004 [Worker-100: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for mysql:mysql-connector-java:jar:8.0.34 is missing, no dependency information available
+2025-01-29 01:22:15,167 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:22:15,172 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:22:17,453 [Worker-101: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.34/mysql-connector-java-8.0.34-javadoc.jar
+2025-01-29 01:22:17,462 [Worker-101: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for mysql:mysql-connector-java:8.0.34
+org.eclipse.core.runtime.CoreException: Could not resolve artifact mysql:mysql-connector-java:jar:javadoc:8.0.34
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-01-29 01:23:06,200 [Worker-100: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pwskills:01-SpringConfig-App:0.0.1-SNAPSHOT @ D:\Spring Projects\05-SpringConfig-App\pom.xml.
+2025-01-29 01:23:06,686 [Worker-100: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.0.5/mysql-connector-java-5.0.5.pom
+2025-01-29 01:23:06,704 [Worker-100: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.0.5/mysql-connector-java-5.0.5.pom
+2025-01-29 01:23:06,893 [Worker-100: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.0.5/mysql-connector-java-5.0.5.jar
+2025-01-29 01:23:07,452 [Worker-100: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.0.5/mysql-connector-java-5.0.5.jar
+2025-01-29 01:23:07,545 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:23:07,550 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:23:09,027 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:23:09,031 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:23:09,131 [Worker-105: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.0.5/mysql-connector-java-5.0.5-sources.jar
+2025-01-29 01:23:09,146 [Worker-105: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for mysql:mysql-connector-java:5.0.5
+org.eclipse.core.runtime.CoreException: Could not resolve artifact mysql:mysql-connector-java:jar:sources:5.0.5
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-01-29 01:23:20,705 [Worker-99: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.0.5/mysql-connector-java-5.0.5-javadoc.jar
+2025-01-29 01:23:20,713 [Worker-99: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for mysql:mysql-connector-java:5.0.5
+org.eclipse.core.runtime.CoreException: Could not resolve artifact mysql:mysql-connector-java:jar:javadoc:5.0.5
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-01-29 01:24:17,015 [Worker-101: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pwskills:01-SpringConfig-App:0.0.1-SNAPSHOT @ D:\Spring Projects\05-SpringConfig-App\pom.xml.
+2025-01-29 01:24:18,083 [Worker-101: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.33/mysql-connector-java-8.0.33.pom
+2025-01-29 01:24:18,108 [Worker-101: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.33/mysql-connector-java-8.0.33.pom
+2025-01-29 01:24:18,184 [Worker-101: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-01-29 01:24:18,307 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:24:18,312 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:24:19,852 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:24:19,855 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:26:36,295 [Worker-106: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:26:36,303 [Worker-106: Launching App (4)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:26:47,512 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:26:47,514 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-01-29 01:26:47,551 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-29 01:26:47,553 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
